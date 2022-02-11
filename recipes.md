@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Recipes"
 permalink: /recipes/
+---
 
 A place for things I like to cook.
 
