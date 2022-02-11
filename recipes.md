@@ -22,7 +22,7 @@ Mix with olive oil, salt, cumin, Chinese black vinegar, Sriracha or chili oil, a
 
 ### Honey Mustard Dressing
 Add 1 part honey, agave syrup, or sugar syrup to 1 part mustard.  
-Add salt, pepper, minced garlic, herbs, and most importantly essence of vinegar (e.g. Kühne Essigessenz).  
+Add salt, pepper, minced garlic, herbs, and, most importantly, essence of vinegar (e.g. Kühne Essigessenz).  
 Slowly add lots of olive oil while whisking to form a proper emulsion, almost as viscous as mayonnaise.  
 Combine with well dried salad ingredients of choice and kneed until well combined.  
 
