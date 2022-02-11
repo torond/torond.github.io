@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Recipes"
-permalink: /recipes/
+permalink: /recipes
 ---
 
 A place for things I like to cook.
