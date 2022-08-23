@@ -11,6 +11,8 @@ In the meantime, check out the Telegram channel for frequent updates: [https://t
 Stay awesome! :)
 David
 
+---
+
 {% for post in site.posts %}
   <article>
     <h2>
